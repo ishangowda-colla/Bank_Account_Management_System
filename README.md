@@ -1,1 +1,1 @@
-Bank_Account_Management_Sysytem
+Bank_Account_Management_System
